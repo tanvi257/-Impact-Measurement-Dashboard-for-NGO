@@ -1,0 +1,115 @@
+record_id,date,district,block,program,activity_type,field_worker,beneficiaries_registered,beneficiaries_attended,sessions_planned,sessions_completed,baseline_score,endline_score,women_count,youth_count,sc_count,st_count,minority_count,persons_with_disability_count,total_cost,followup_completed,issue_count,data_quality_flag
+REC-0001,2026-01-05,Tehri Garhwal,Narendranagar,Women Entrepreneurship,Workshop,FW-005,85,73,1,1,32.0,52.7,51,21,13,4,15,2,21020.0,41,0,Clean
+REC-0002,2026-01-05,Tehri Garhwal,Pratapnagar,Skill Training,Training Session,FW-001,54,41,4,4,43.5,56.9,21,17,4,1,6,1,9455.0,25,0,Clean
+REC-0003,2026-01-09,Dehradun,Raipur,Health Awareness,Camp,FW-004,72,61,1,0,50.4,60.4,43,23,9,5,3,1,14911.0,50,0,Clean
+REC-0004,2026-01-09,Pauri Garhwal,Dugadda,Skill Training,Camp,FW-004,87,62,1,1,36.3,58.2,39,33,13,4,8,1,13662.0,52,0,Clean
+REC-0005,2026-01-09,Haridwar,Bahadrabad,Digital Literacy,Follow-up Visit,FW-008,133,100,2,2,40.7,59.7,66,40,24,3,4,1,17614.0,60,0,Clean
+REC-0006,2026-01-13,Dehradun,Sahaspur,Health Awareness,Follow-up Visit,FW-006,54,41,2,2,28.1,33.4,20,24,10,3,3,1,10048.0,23,0,Clean
+REC-0007,2026-01-13,Dehradun,Doiwala,Health Awareness,Training Session,FW-001,138,101,3,3,47.4,57.8,74,53,23,6,15,3,21513.0,73,0,Clean
+REC-0008,2026-01-13,Haridwar,Bahadrabad,Digital Literacy,Workshop,FW-004,112,93,1,0,35.7,51.4,52,43,9,10,11,3,25636.0,69,0,Clean
+REC-0009,2026-01-17,Pauri Garhwal,Dugadda,Digital Literacy,Camp,FW-003,144,118,2,1,43.6,68.0,87,35,23,3,18,2,28778.0,102,0,Clean
+REC-0010,2026-01-17,Haridwar,Roorkee Rural,Digital Literacy,Training Session,FW-008,61,50,3,3,36.8,59.8,27,30,7,3,4,2,13122.0,43,0,Clean
+REC-0011,2026-01-17,Haridwar,Roorkee Rural,Women Entrepreneurship,Camp,FW-006,60,49,4,4,47.2,64.7,28,13,11,2,10,0,16420.0,37,0,Clean
+REC-0012,2026-01-17,Haridwar,Roorkee Rural,Digital Literacy,Camp,FW-002,135,103,4,3,41.1,59.0,51,26,14,3,16,1,22867.0,85,0,Clean
+REC-0013,2026-01-21,Pauri Garhwal,Kotdwar,Digital Literacy,Follow-up Visit,FW-002,119,84,3,2,40.2,56.2,51,41,22,4,17,0,20427.0,58,0,Clean
+REC-0014,2026-01-21,Haridwar,Roorkee Rural,Skill Training,Camp,FW-008,55,49,4,4,39.1,57.0,23,27,11,2,6,1,10572.0,34,0,Clean
+REC-0015,2026-01-25,Pauri Garhwal,Kotdwar,Digital Literacy,Workshop,FW-005,149,134,3,2,33.3,49.1,66,74,20,4,27,2,27618.0,76,0,Clean
+REC-0016,2026-01-25,Haridwar,Bahadrabad,Digital Literacy,Camp,FW-001,55,46,3,3,46.6,66.7,28,26,11,1,3,0,16422.0,31,0,Clean
+REC-0017,2026-01-25,Tehri Garhwal,Narendranagar,Digital Literacy,Training Session,FW-008,45,31,4,4,27.6,51.1,23,18,7,3,4,1,8065.0,22,0,Clean
+REC-0018,2026-01-25,Tehri Garhwal,Pratapnagar,Skill Training,Camp,FW-007,79,59,1,1,27.4,45.4,31,22,9,3,6,2,13822.0,43,1,Late entry
+REC-0019,2026-01-29,Tehri Garhwal,Pratapnagar,Skill Training,Follow-up Visit,FW-002,58,47,4,3,38.0,60.0,24,23,11,1,7,0,15813.0,41,1,Attendance mismatch
+REC-0020,2026-01-29,Haridwar,Roorkee Rural,Skill Training,Training Session,FW-005,86,76,4,3,45.3,54.0,36,36,9,5,10,2,18830.0,57,0,Clean
+REC-0021,2026-02-02,Haridwar,Roorkee Rural,Digital Literacy,Follow-up Visit,FW-001,125,87,1,1,53.5,68.0,58,32,22,8,7,2,19431.0,61,0,Clean
+REC-0022,2026-02-02,Tehri Garhwal,Pratapnagar,Skill Training,Workshop,FW-006,79,65,4,3,47.0,68.1,37,39,14,7,3,2,14048.0,36,0,Clean
+REC-0023,2026-02-02,Haridwar,Laksar,Women Entrepreneurship,Camp,FW-006,84,67,2,2,49.4,72.5,47,19,18,7,6,2,18042.0,37,0,Clean
+REC-0024,2026-02-06,Haridwar,Bahadrabad,Digital Literacy,Workshop,FW-007,133,97,4,4,50.2,66.6,43,26,20,9,8,4,19509.0,77,1,Late entry
+REC-0025,2026-02-06,Tehri Garhwal,Pratapnagar,Digital Literacy,Follow-up Visit,FW-001,87,62,1,1,58.5,77.1,45,19,14,2,5,2,19068.0,35,0,Clean
+REC-0026,2026-02-06,Pauri Garhwal,Kotdwar,Skill Training,Camp,FW-006,136,98,2,2,39.7,49.2,58,52,21,7,6,4,20278.0,86,0,Clean
+REC-0027,2026-02-06,Haridwar,Bahadrabad,Health Awareness,Workshop,FW-008,114,92,2,2,45.7,60.7,50,37,19,7,10,2,13710.0,64,0,Clean
+REC-0028,2026-02-10,Dehradun,Doiwala,Digital Literacy,Workshop,FW-008,45,37,3,3,42.2,61.3,20,20,7,2,5,0,10515.0,26,1,Late entry
+REC-0029,2026-02-10,Pauri Garhwal,Dugadda,Skill Training,Camp,FW-006,63,57,2,2,51.1,71.1,41,15,8,3,4,1,8938.0,38,0,Clean
+REC-0030,2026-02-14,Pauri Garhwal,Kotdwar,Skill Training,Training Session,FW-006,111,86,1,1,69.2,87.8,47,43,19,5,13,0,23058.0,72,0,Clean
+REC-0031,2026-02-14,Haridwar,Roorkee Rural,Skill Training,Follow-up Visit,FW-002,148,134,4,3,43.1,67.5,77,37,31,8,16,2,24086.0,87,0,Clean
+REC-0032,2026-02-14,Haridwar,Laksar,Skill Training,Workshop,FW-005,118,82,2,2,36.7,54.2,54,40,19,2,8,2,21619.0,69,0,Clean
+REC-0033,2026-02-14,Tehri Garhwal,Narendranagar,Women Entrepreneurship,Camp,FW-003,93,77,1,0,32.6,47.2,44,45,16,2,7,1,17156.0,58,0,Clean
+REC-0034,2026-02-18,Haridwar,Laksar,Skill Training,Follow-up Visit,FW-005,66,56,3,2,58.4,81.8,39,32,12,6,10,2,16159.0,43,0,Clean
+REC-0035,2026-02-18,Dehradun,Sahaspur,Women Entrepreneurship,Follow-up Visit,FW-002,52,45,2,1,40.8,50.9,20,24,8,5,5,2,12063.0,37,0,Clean
+REC-0036,2026-02-18,Pauri Garhwal,Kotdwar,Women Entrepreneurship,Workshop,FW-007,141,97,1,1,50.4,64.2,65,49,23,10,16,4,22979.0,53,0,Clean
+REC-0037,2026-02-22,Pauri Garhwal,Kotdwar,Digital Literacy,Follow-up Visit,FW-001,112,88,3,2,58.6,70.4,64,33,22,4,12,2,19071.0,58,0,Clean
+REC-0038,2026-02-22,Dehradun,Sahaspur,Women Entrepreneurship,Camp,FW-003,96,72,4,3,43.6,67.3,56,36,14,4,14,2,17023.0,40,0,Clean
+REC-0039,2026-02-22,Haridwar,Bahadrabad,Skill Training,Follow-up Visit,FW-006,87,67,2,2,28.1,44.0,42,23,17,2,6,3,13268.0,43,0,Clean
+REC-0040,2026-02-22,Tehri Garhwal,Chamba,Health Awareness,Camp,FW-002,55,50,1,1,49.2,65.5,35,20,9,5,8,2,10999.0,29,0,Clean
+REC-0041,2026-02-26,Dehradun,Doiwala,Women Entrepreneurship,Workshop,FW-007,124,98,3,3,22.5,37.5,45,33,10,6,13,2,20887.0,77,0,Clean
+REC-0042,2026-02-26,Haridwar,Laksar,Health Awareness,Workshop,FW-003,58,45,1,1,44.9,63.1,33,11,8,3,4,1,10130.0,28,0,Clean
+REC-0043,2026-02-26,Tehri Garhwal,Narendranagar,Skill Training,Training Session,FW-006,73,56,1,1,33.6,42.9,38,17,6,1,11,0,15843.0,35,0,Clean
+REC-0044,2026-03-02,Haridwar,Laksar,Skill Training,Training Session,FW-002,114,77,4,4,63.0,82.1,54,43,11,8,9,2,24610.0,63,0,Clean
+REC-0045,2026-03-02,Dehradun,Raipur,Digital Literacy,Workshop,FW-002,104,82,3,3,51.4,71.4,46,21,10,7,13,3,24138.0,49,0,Clean
+REC-0046,2026-03-02,Pauri Garhwal,Yamkeshwar,Digital Literacy,Workshop,FW-002,126,119,3,3,44.2,73.0,76,35,31,12,16,4,25683.0,93,0,Clean
+REC-0047,2026-03-06,Tehri Garhwal,Pratapnagar,Digital Literacy,Training Session,FW-008,40,29,3,2,45.4,58.3,18,11,6,2,4,1,6139.0,24,0,Clean
+REC-0048,2026-03-06,Haridwar,Laksar,Health Awareness,Follow-up Visit,FW-008,94,66,4,3,41.0,56.4,32,39,8,2,12,3,11362.0,45,0,Clean
+REC-0049,2026-03-10,Pauri Garhwal,Kotdwar,Skill Training,Training Session,FW-008,120,106,4,4,33.7,47.4,77,57,12,4,18,1,33161.0,72,0,Clean
+REC-0050,2026-03-10,Pauri Garhwal,Kotdwar,Skill Training,Follow-up Visit,FW-002,100,79,3,3,41.4,54.4,40,30,13,2,5,2,11771.0,64,0,Clean
+REC-0051,2026-03-10,Haridwar,Laksar,Digital Literacy,Camp,FW-007,136,99,4,4,40.9,55.4,53,26,18,11,15,2,13860.0,84,0,Clean
+REC-0052,2026-03-14,Tehri Garhwal,Chamba,Women Entrepreneurship,Follow-up Visit,FW-005,148,138,3,3,47.9,75.4,87,39,34,11,18,2,30895.0,90,1,Attendance mismatch
+REC-0053,2026-03-14,Pauri Garhwal,Yamkeshwar,Health Awareness,Training Session,FW-006,77,68,1,0,60.9,71.1,33,39,8,3,13,1,17517.0,57,0,Clean
+REC-0054,2026-03-14,Pauri Garhwal,Yamkeshwar,Health Awareness,Workshop,FW-002,96,71,3,3,41.8,50.6,52,38,13,4,9,2,15998.0,51,0,Clean
+REC-0055,2026-03-14,Tehri Garhwal,Pratapnagar,Digital Literacy,Training Session,FW-007,144,119,4,4,44.1,67.8,58,70,18,9,14,3,25020.0,84,2,Missing follow-up
+REC-0056,2026-03-18,Tehri Garhwal,Chamba,Women Entrepreneurship,Camp,FW-008,113,78,2,1,40.2,73.6,54,42,10,8,9,2,17509.0,55,0,Clean
+REC-0057,2026-03-18,Haridwar,Roorkee Rural,Digital Literacy,Training Session,FW-007,49,41,2,2,51.2,63.2,28,17,8,3,5,1,7678.0,23,0,Clean
+REC-0058,2026-03-18,Tehri Garhwal,Narendranagar,Women Entrepreneurship,Follow-up Visit,FW-002,120,113,3,3,40.2,65.4,86,43,26,6,15,4,26198.0,75,0,Clean
+REC-0059,2026-03-18,Pauri Garhwal,Yamkeshwar,Health Awareness,Training Session,FW-003,81,57,4,4,51.7,63.5,38,14,9,2,10,2,10681.0,34,0,Clean
+REC-0060,2026-03-22,Dehradun,Raipur,Women Entrepreneurship,Follow-up Visit,FW-008,112,82,4,4,23.9,41.7,53,28,17,4,17,2,17368.0,62,0,Clean
+REC-0061,2026-03-22,Dehradun,Doiwala,Women Entrepreneurship,Follow-up Visit,FW-001,132,101,4,3,52.0,72.6,56,34,26,11,19,4,17285.0,71,0,Clean
+REC-0062,2026-03-26,Pauri Garhwal,Kotdwar,Skill Training,Follow-up Visit,FW-005,107,80,2,2,43.5,68.2,57,45,10,1,8,3,23772.0,54,0,Clean
+REC-0063,2026-03-26,Haridwar,Laksar,Digital Literacy,Workshop,FW-002,149,107,1,1,73.1,87.6,82,29,13,10,9,4,21745.0,79,1,Attendance mismatch
+REC-0064,2026-03-26,Dehradun,Raipur,Skill Training,Follow-up Visit,FW-007,92,78,1,0,57.3,82.7,53,47,12,5,9,0,19565.0,65,0,Clean
+REC-0065,2026-03-30,Dehradun,Doiwala,Skill Training,Workshop,FW-001,71,63,1,1,42.6,59.2,46,17,8,4,3,0,14739.0,49,0,Clean
+REC-0066,2026-03-30,Pauri Garhwal,Yamkeshwar,Digital Literacy,Training Session,FW-004,38,34,1,1,42.4,56.3,16,13,7,1,5,1,9633.0,21,0,Clean
+REC-0067,2026-03-30,Haridwar,Laksar,Digital Literacy,Workshop,FW-005,121,85,2,2,55.2,79.4,49,52,10,7,10,2,20244.0,66,1,Attendance mismatch
+REC-0068,2026-03-30,Haridwar,Roorkee Rural,Skill Training,Workshop,FW-004,68,56,3,3,69.6,96.4,25,15,11,3,4,1,12706.0,36,0,Clean
+REC-0069,2026-04-03,Pauri Garhwal,Kotdwar,Skill Training,Camp,FW-005,71,61,4,4,44.9,52.6,45,29,7,6,7,1,14206.0,37,0,Clean
+REC-0070,2026-04-03,Dehradun,Sahaspur,Digital Literacy,Workshop,FW-008,137,100,1,1,49.2,66.6,73,36,16,2,10,2,26595.0,58,1,Attendance mismatch
+REC-0071,2026-04-07,Haridwar,Bahadrabad,Skill Training,Training Session,FW-008,48,34,1,0,44.6,68.3,21,21,3,2,3,1,10023.0,24,0,Clean
+REC-0072,2026-04-07,Pauri Garhwal,Dugadda,Women Entrepreneurship,Training Session,FW-008,144,113,2,1,45.3,68.7,58,32,28,8,11,2,30870.0,77,1,Attendance mismatch
+REC-0073,2026-04-07,Tehri Garhwal,Chamba,Health Awareness,Follow-up Visit,FW-005,146,117,3,3,37.7,48.0,65,45,13,4,19,2,30381.0,98,0,Clean
+REC-0074,2026-04-07,Dehradun,Sahaspur,Skill Training,Camp,FW-002,141,121,4,4,59.5,73.2,91,56,12,2,19,3,26500.0,66,1,Missing follow-up
+REC-0075,2026-04-11,Pauri Garhwal,Yamkeshwar,Health Awareness,Follow-up Visit,FW-003,136,106,4,3,46.7,58.1,74,45,20,12,22,4,18153.0,62,1,Attendance mismatch
+REC-0076,2026-04-11,Dehradun,Sahaspur,Health Awareness,Follow-up Visit,FW-005,63,59,3,3,57.3,54.7,34,17,14,6,5,1,18984.0,46,0,Clean
+REC-0077,2026-04-11,Dehradun,Doiwala,Skill Training,Camp,FW-008,53,41,4,4,47.3,69.1,25,13,5,1,4,0,12135.0,23,0,Clean
+REC-0078,2026-04-15,Pauri Garhwal,Yamkeshwar,Skill Training,Workshop,FW-003,135,107,1,1,49.4,62.2,83,64,11,9,10,4,23277.0,90,1,Late entry
+REC-0079,2026-04-15,Haridwar,Roorkee Rural,Health Awareness,Follow-up Visit,FW-007,52,48,4,4,42.5,54.2,22,29,7,1,4,2,15248.0,42,0,Clean
+REC-0080,2026-04-15,Pauri Garhwal,Yamkeshwar,Women Entrepreneurship,Follow-up Visit,FW-005,107,95,1,1,46.8,68.5,73,48,17,6,10,2,22652.0,67,0,Clean
+REC-0081,2026-04-19,Haridwar,Roorkee Rural,Skill Training,Workshop,FW-003,44,31,1,0,63.6,83.2,19,18,8,1,1,0,7392.0,22,0,Clean
+REC-0082,2026-04-19,Tehri Garhwal,Narendranagar,Digital Literacy,Follow-up Visit,FW-003,106,94,4,4,29.3,54.9,53,26,13,5,19,2,20537.0,73,0,Clean
+REC-0083,2026-04-19,Haridwar,Roorkee Rural,Health Awareness,Workshop,FW-008,127,111,1,0,42.3,50.7,53,48,21,7,13,5,19328.0,84,0,Clean
+REC-0084,2026-04-19,Haridwar,Bahadrabad,Skill Training,Camp,FW-003,61,42,3,2,60.2,74.3,25,11,10,3,7,1,11324.0,32,0,Clean
+REC-0085,2026-04-23,Pauri Garhwal,Yamkeshwar,Health Awareness,Follow-up Visit,FW-001,145,115,3,2,45.4,51.7,69,37,26,3,8,4,14176.0,101,0,Clean
+REC-0086,2026-04-23,Tehri Garhwal,Chamba,Digital Literacy,Training Session,FW-002,80,65,2,2,48.3,71.0,33,24,12,2,5,1,15135.0,46,0,Clean
+REC-0087,2026-04-23,Haridwar,Bahadrabad,Skill Training,Workshop,FW-004,124,111,1,1,39.3,51.6,63,34,20,6,9,4,35141.0,72,0,Clean
+REC-0088,2026-04-23,Tehri Garhwal,Narendranagar,Digital Literacy,Camp,FW-004,97,90,4,4,41.8,48.2,70,42,23,9,16,2,25486.0,62,0,Clean
+REC-0089,2026-04-27,Dehradun,Doiwala,Skill Training,Workshop,FW-008,108,76,4,4,52.5,58.4,59,43,19,3,8,1,22330.0,49,0,Clean
+REC-0090,2026-04-27,Pauri Garhwal,Kotdwar,Digital Literacy,Camp,FW-002,54,37,3,2,41.3,51.1,24,11,4,3,3,1,9476.0,23,0,Clean
+REC-0091,2026-04-27,Dehradun,Sahaspur,Digital Literacy,Camp,FW-006,35,27,2,2,42.8,62.8,15,15,3,0,3,1,8366.0,15,0,Clean
+REC-0092,2026-05-01,Haridwar,Laksar,Skill Training,Workshop,FW-001,52,38,2,2,40.4,48.1,27,18,8,4,4,0,10819.0,22,0,Clean
+REC-0093,2026-05-01,Tehri Garhwal,Narendranagar,Digital Literacy,Camp,FW-007,88,64,2,2,50.1,69.3,47,35,9,3,5,0,13500.0,44,0,Clean
+REC-0094,2026-05-01,Dehradun,Raipur,Digital Literacy,Workshop,FW-002,125,111,3,3,46.9,71.7,81,37,12,11,10,3,25832.0,89,0,Clean
+REC-0095,2026-05-01,Tehri Garhwal,Pratapnagar,Women Entrepreneurship,Training Session,FW-006,85,69,4,4,50.0,55.5,33,23,13,4,9,1,13932.0,54,0,Clean
+REC-0096,2026-05-05,Pauri Garhwal,Yamkeshwar,Skill Training,Follow-up Visit,FW-004,56,52,1,1,46.3,76.6,29,25,9,6,2,1,12837.0,46,0,Clean
+REC-0097,2026-05-05,Dehradun,Sahaspur,Health Awareness,Follow-up Visit,FW-007,63,48,4,4,48.6,58.3,21,15,10,3,6,0,13048.0,42,0,Clean
+REC-0098,2026-05-09,Tehri Garhwal,Chamba,Skill Training,Follow-up Visit,FW-008,96,87,2,2,46.8,55.3,54,46,12,3,3,4,18195.0,62,0,Clean
+REC-0099,2026-05-09,Pauri Garhwal,Kotdwar,Skill Training,Workshop,FW-001,86,63,1,0,39.2,41.5,40,19,17,6,12,1,16213.0,36,0,Clean
+REC-0100,2026-05-09,Haridwar,Roorkee Rural,Digital Literacy,Follow-up Visit,FW-007,38,34,1,1,45.7,64.0,25,16,6,3,4,0,6771.0,20,0,Clean
+REC-0101,2026-05-13,Tehri Garhwal,Chamba,Women Entrepreneurship,Training Session,FW-004,114,98,2,2,39.2,61.1,54,32,21,10,9,3,27479.0,75,0,Clean
+REC-0102,2026-05-13,Pauri Garhwal,Yamkeshwar,Skill Training,Training Session,FW-004,50,43,3,3,34.4,44.1,25,12,6,2,7,0,10048.0,31,0,Clean
+REC-0103,2026-05-17,Pauri Garhwal,Yamkeshwar,Health Awareness,Workshop,FW-001,141,116,3,3,59.6,78.5,71,49,30,8,14,5,17970.0,63,0,Clean
+REC-0104,2026-05-17,Pauri Garhwal,Dugadda,Skill Training,Follow-up Visit,FW-002,96,66,3,3,43.5,56.1,33,31,10,5,7,2,10146.0,55,0,Clean
+REC-0105,2026-05-21,Dehradun,Sahaspur,Digital Literacy,Camp,FW-008,118,88,2,2,40.4,62.4,68,39,18,9,18,1,22481.0,78,0,Clean
+REC-0106,2026-05-21,Dehradun,Doiwala,Women Entrepreneurship,Follow-up Visit,FW-007,148,132,4,4,33.8,56.3,83,57,28,8,23,3,26036.0,93,0,Clean
+REC-0107,2026-05-21,Haridwar,Bahadrabad,Skill Training,Camp,FW-006,148,101,3,2,38.6,56.0,54,27,11,7,4,4,24239.0,58,0,Clean
+REC-0108,2026-05-21,Dehradun,Doiwala,Women Entrepreneurship,Training Session,FW-003,127,86,3,3,51.8,69.6,42,27,18,7,12,4,13076.0,54,0,Clean
+REC-0109,2026-05-25,Haridwar,Bahadrabad,Skill Training,Follow-up Visit,FW-004,75,51,2,2,47.7,57.3,36,28,11,1,6,1,7455.0,35,0,Clean
+REC-0110,2026-05-25,Haridwar,Bahadrabad,Women Entrepreneurship,Workshop,FW-005,100,73,4,4,43.7,67.4,55,18,17,8,14,3,19026.0,55,1,Late entry
+REC-0111,2026-05-25,Dehradun,Doiwala,Skill Training,Workshop,FW-005,92,80,1,1,55.3,59.7,48,35,12,9,13,1,20549.0,64,0,Clean
+REC-0112,2026-05-25,Tehri Garhwal,Chamba,Women Entrepreneurship,Camp,FW-004,59,46,1,0,38.2,53.4,34,15,10,5,3,0,9539.0,37,0,Clean
+REC-0113,2026-05-29,Dehradun,Doiwala,Women Entrepreneurship,Camp,FW-002,73,59,2,1,54.1,66.9,39,17,15,4,3,0,12434.0,41,0,Clean
+REC-0114,2026-05-29,Pauri Garhwal,Dugadda,Health Awareness,Follow-up Visit,FW-002,65,44,2,2,31.6,50.2,21,11,6,2,4,1,11001.0,32,0,Clean
