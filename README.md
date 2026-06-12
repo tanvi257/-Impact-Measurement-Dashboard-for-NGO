@@ -1,5 +1,8 @@
 # NSS Challenge 5.1 - NGO Impact Measurement Dashboard
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://x5uyfkyl9jr6sbqegdqsov.streamlit.app/)
+
+
 This project is a complete prototype for Challenge 5.1: Impact Measurement Dashboard for a Partner NGO.
 
 It converts raw field activity data into decision-ready KPIs for non-technical NGO staff:
