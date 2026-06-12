@@ -2,6 +2,10 @@ from pathlib import Path
 
 import pandas as pd
 import streamlit as st
+import os
+import sys
+
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from src.config import APP_TITLE, DEFAULT_DATA_PATH, KPI_TREE
 from src.data_loader import apply_filters, load_dashboard_data
