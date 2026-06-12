@@ -1,0 +1,24 @@
+Column,Meaning,Example,Used For
+record_id,Unique anonymized record identifier,REC-0001,Audit trail
+date,Date of field activity,2026-01-05,Trend analysis
+district,District where activity happened,Haridwar,Geographic comparison
+block,Block or local administrative area,Bahadrabad,Local monitoring
+program,NGO program name,Digital Literacy,Program comparison
+activity_type,Type of field activity,Workshop,Activity mix analysis
+field_worker,Anonymized field worker ID,FW-001,Data follow-up
+beneficiaries_registered,People registered for the activity,90,Attendance denominator
+beneficiaries_attended,People who actually attended,76,Reach/output KPI
+sessions_planned,Number of planned sessions,3,Programme progress
+sessions_completed,Number of completed sessions,3,Execution KPI
+baseline_score,Pre-intervention survey/assessment score,42.5,Outcome baseline
+endline_score,Post-intervention survey/assessment score,61.2,Outcome measurement
+women_count,Women beneficiaries reached,48,Gender reach
+youth_count,Youth beneficiaries reached,39,Age reach
+sc_count,SC beneficiaries reached,15,Inclusion reach
+st_count,ST beneficiaries reached,5,Inclusion reach
+minority_count,Minority beneficiaries reached,8,Inclusion reach
+persons_with_disability_count,Persons with disability reached,2,Accessibility reach
+total_cost,Total activity cost in INR,18500,Cost efficiency
+followup_completed,Beneficiaries with follow-up completed,61,Outcome verification
+issue_count,Number of field data issues logged,1,Data quality
+data_quality_flag,Quality status or issue type,Clean,Data quality filtering
