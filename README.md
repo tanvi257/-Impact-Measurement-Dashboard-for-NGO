@@ -1,4 +1,4 @@
-# NSS Challenge 5.1 - NGO Impact Measurement Dashboard
+ NGO Impact Measurement Dashboard
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://x5uyfkyl9jr6sbqegdqsov.streamlit.app/)
 
