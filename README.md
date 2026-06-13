@@ -25,19 +25,19 @@ If real NGO data becomes available, upload it from the dashboard sidebar or repl
 
 ```text
 nss-impact-dashboard/
-  app.py
-  generate_sample_data.py
-  requirements.txt
-  data_dictionary.csv
-  USER_GUIDE.md
-  data/
-    sample_field_data.csv
-  src/
-    __init__.py
-    config.py
-    data_loader.py
-    kpi_calculator.py
-    visuals.py
+├── data/
+│   └── sample_field_data.csv
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── data_loader.py
+│   ├── kpi_calculator.py
+│   └── visuals.py
+├── app.py
+├── data_dictionary.csv
+├── generate_sample_data.py
+├── requirements.txt
+└── USER_GUIDE.md
 ```
 
 ## Setup
